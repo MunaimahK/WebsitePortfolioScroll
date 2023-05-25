@@ -1,6 +1,6 @@
 # WebsitePortfolioScroll
 
-### Link to Website:
+### Link to Website: http://websitestatichost.s3-website-us-east-1.amazonaws.com/
 Aesthetic display of technical skill set, previous work experience, and academic excellence through fluid animation, certification badges, and interactive features. View all projects I have developed both individually or helped develop in a team setting. 
 
 ## What I learned
